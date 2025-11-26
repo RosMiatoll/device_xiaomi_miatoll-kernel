@@ -11,7 +11,7 @@
 
 * About
 
-This is a repository that holds the kernel prebuilts for the Redmi Note 10 (sunny).
+This is a repository that holds the kernel prebuilts for the Redmi Note 9 Pro (Miatoll).
 
 * Usage
 
